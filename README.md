@@ -4,7 +4,7 @@ Namely, Value iteration.
 You can run a simulation of the agent by entering the command: python pacman.py -p MDPAgent in a terminal.
 
 This project is based on the Pacman AI Projects developed at UC Berkeley for educational purposes. The original projects and autograders were created by John DeNero and Dan Klein, with additional contributions from Brad Miller, Nick Hay, and Pieter Abbeel.
-The only code modified by me is in the[MDPAgents.py](./MDPAgents.py) file, to code the agent.
+The only code modified by me is in the [MDPAgents.py](./MDPAgents.py) file, to code the agent.
 
 You can find the original project and materials here: http://ai.berkeley.edu
 
